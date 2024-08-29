@@ -10,7 +10,7 @@ Some of the members in the class structure:
 name and the card number
 - Deposit(): this function adds the deposited amount to the money in the account + 1% of the
 deposited amount added
-- Withdrawal(): this function withdraw money from the money in the account + 3% deduced
+- Withdrawal(): this function withdraw money from the money in the account + 3% deducted
 from the account
 - Transfer(): this function transfers money from a sending account to a receiving account,
 deducing 1.5% from both accounts
@@ -20,8 +20,8 @@ deducing 1.5% from both accounts
 Notes to consider:
 - The maximum number of accounts is 100 accounts
 - When depositing, an extra 1% of the depositing amount is added to the account
-- When withdrawing, an extra 3% of the withdrawn amount is deduced from the account
-- When transfering, each user has 1.5% deduced from each account
+- When withdrawing, an extra 3% of the withdrawn amount is deducted from the account
+- When transfering, each user has 1.5% deducted from each account
 
 The program interactively deals with the ATM user, until the user requests to
 terminate the program
