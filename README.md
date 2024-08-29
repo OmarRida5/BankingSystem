@@ -6,15 +6,15 @@ It allows the user to create a new account, deposit, withdraw, transfer and prin
 
 Some of the members in the class structure:
 
-create_new_acc(): this member function is used to create a new account, entering the
+- create_new_acc(): this member function is used to create a new account, entering the
 name and the card number
-Deposit(): this function adds the deposited amount to the money in the account + 1% of the
+- Deposit(): this function adds the deposited amount to the money in the account + 1% of the
 deposited amount added
-Withdrawal(): this function withdraw money from the money in the account + 3% deduced
+- Withdrawal(): this function withdraw money from the money in the account + 3% deduced
 from the account
-Transfer(): this function transfers money from a sending account to a receiving account,
+- Transfer(): this function transfers money from a sending account to a receiving account,
 deducing 1.5% from both accounts
-Print_acc_data(): prints the account name, card number, and amount of money
+- Print_acc_data(): prints the account name, card number, and amount of money
 
 
 Notes to consider:
