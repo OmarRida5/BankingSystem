@@ -1,7 +1,7 @@
 # BankingSystem
 A banking program that interactively deals with the ATM user and provide different banking services.
 
-This is a Data Structure 1st year university project for a simple banking system, dealing with ATMs.
+This is a Data Structure 1st year university project for a simple banking system, dealing with ATMs. (Team: 2 members)
 It allows the user to create a new account, deposit, withdraw, transfer and print out details of each user's account. Each user has his name, and a unique card ID.
 
 Some of the members in the class structure:
@@ -24,4 +24,6 @@ Notes to consider:
 - When transfering, each user has 1.5% deducted from each account
 
 The program interactively deals with the ATM user, until the user requests to
-terminate the program
+terminate the program.
+
+I am aware this project definitely lacks a lot of comments, it was my first data structure project. 
